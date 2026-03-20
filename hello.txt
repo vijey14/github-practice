@@ -1,3 +1,2 @@
 Hello GitHub!
-Learning github step by step.
-This is from feature branch
+Learing how to use Git and GitHub is fun!
