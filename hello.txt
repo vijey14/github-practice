@@ -1,2 +1,3 @@
 Hello GitHub!
 Learing how to use Git and GitHub is fun!
+Learning how to use Git and GitHub is fun! This for conflict from feature1
